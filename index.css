@@ -25,8 +25,15 @@ header img {
   max-width: 90px;
 }
 
-#hero h3 em {
+section#hero h3 em {
   color: #f6efac;
+}
+
+main .card {
+  max-width: 300px;
+}
+main .card img {
+  width: 50px;
 }
 
 /*# sourceMappingURL=index.css.map */

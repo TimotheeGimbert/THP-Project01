@@ -18,9 +18,18 @@ header {
   }
 }
 
-#hero {
+section#hero {
   h3 em {
     color: rgb(246, 239, 172);
+  }
+}
+
+main {
+  .card {
+    max-width: 300px;
+    img {
+      width: 50px;
+    }
   }
 }
 
