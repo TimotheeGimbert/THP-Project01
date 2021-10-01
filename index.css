@@ -18,14 +18,15 @@ body {
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
-  /*   :nth-child(2) {
-      background-color: aqua;
-    } */
 }
 
 header img {
   width: 11vh;
   max-width: 90px;
+}
+
+#hero h3 em {
+  color: #f6efac;
 }
 
 /*# sourceMappingURL=index.css.map */
